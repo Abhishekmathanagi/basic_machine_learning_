@@ -1,0 +1,21 @@
+artifical intelligence is an area of a computer science ,
+where the goal is to enable computers and machine to perform human-like task and 
+simulate human behaviour
+
+machine learning is sub set of AI that tries to slove 
+a specific problem and make predictions using data
+
+Data science is a feild that attempts to find patterms and draw insights  from data (might use ML)
+
+types f machine learning:
+1 supervised learning:
+    uses labeled inputs (meaning the input has a corresponding output label)
+    to train models and learns output
+
+2 unsupervised learning:
+    uses unlabeled data to learn about patterns in data
+    like clustering some similar group of attributes
+
+3 reinforcement learning:
+    agent learning in interactive enviroment based on rewards and penalities
+

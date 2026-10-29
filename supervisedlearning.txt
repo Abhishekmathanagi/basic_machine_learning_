@@ -1,0 +1,40 @@
+in supervised learning we give multiple inputs to the corresponding 
+model so we get a predictions of the data as output
+
+The inputs to the model is called "FEATURE VECTOR"
+
+FEATURES:
+    1 Qualitative - categorial data (finite number of categories or groups)
+        example: gender and nationality 
+        this is NOMINAL Data (no inherent order)
+    
+        ONE_HOT ENCODING :
+        if any of the item is have in the corresoping data set make it as "1"
+
+        AGE groups and rating group  are the good example of ordinal data (inherent order)
+    
+    2 Quantitative -numerical valued data (could be discreate or continous)
+         example :scaling tape 
+
+
+predictions:
+    in supervised learning tasks
+    1 classfication -pridict discreate classes 
+        classification has two types of classification
+            -binary classification 
+            -multiclass classfication
+        in binary classification :
+        this is also works as working between two things 
+        -positive/negative
+        -cat/dog
+        -spam/not spam
+
+        in multiclass classification:
+        cat/dog/lizard/lion
+        orange/apple/watermelon
+        plant spcies
+
+    2 Regression:
+        this works on continous data 
+        like temp,house prices,price of gold 
+        which means this values cannot be constant for long time they might get vary either get up or dowm
